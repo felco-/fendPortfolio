@@ -1,0 +1,47 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+
+.text-muted {
+  color: rgb(46, 60, 73);
+  font-weight: bold;
+}
+
+.text-thin {
+  font-weight: 300;
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+}
+
+.title-description {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.page-divisor {
+  border: 2px solid rgb(125, 151, 174);
+}
+
+.project-title {
+  font-weight: bold;
+}
+
+.project-url {
+  font-size: 20px;
+}
+
+.icon-big {
+  font-size: 23px;
+  color: #000000;
+}
+
+.icon-link-style {
+  color: #000000;
+}
